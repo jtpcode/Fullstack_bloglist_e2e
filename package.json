@@ -1,0 +1,24 @@
+{
+  "name": "fullstack_bloglist_e2e",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:report": "playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtpcode/Fullstack_bloglist_e2e.git"
+  },
+  "author": "jptcode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtpcode/Fullstack_bloglist_e2e/issues"
+  },
+  "homepage": "https://github.com/jtpcode/Fullstack_bloglist_e2e#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^24.0.0"
+  }
+}
